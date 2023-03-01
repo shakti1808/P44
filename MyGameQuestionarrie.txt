@@ -1,0 +1,11 @@
+1. Write the title of your project.
+
+	Treasure Doors 
+
+2. What is the goal of the game?
+	
+	Find all the clues to solve the riddles/puzzles before the end of the time limit
+
+3. Write a brief story of your game.
+
+	There is a weird woman who believes in the treasure of her grandfather's story, even though they come from a long line of great scientists. One day her grandfather dies and she is left his house. The woman is a curious scientist, and she chose to find the treasure, based on the information on the map she found on the table next to her grandfather's deathbed. And find a map, finds a door that leads to doors (with a bag of supplies, she may need). 
